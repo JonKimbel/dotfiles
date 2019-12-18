@@ -1,7 +1,9 @@
 # JonKimbel/dotfiles
 
-## bashrc
+## Installation
 
-Recommended programs:
+Recommended programs to install:
 
 *   tmux
+
+Clone this repo into a new directory located at `~/dotfiles`.
