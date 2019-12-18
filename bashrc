@@ -9,3 +9,8 @@ function goto {
 function ks {
   tmux kill-sess
 }
+
+# Shortcut for clearing the terminal.
+function c {
+  clear
+}
