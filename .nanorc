@@ -1,5 +1,4 @@
 set tabsize 2
 set tabstospaces
-set linenumbers
 set nowrap
 set softwrap
