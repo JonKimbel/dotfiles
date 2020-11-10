@@ -5,6 +5,7 @@
 Recommended programs to install first:
 
 *   tmux
+*   pcregrep
 
 Installing these dotfiles:
 
